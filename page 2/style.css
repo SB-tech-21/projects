@@ -1,3 +1,10 @@
 .bg-container{
-    
+    background-image: url("https://ik.imagekit.io/e9lbb2htg/tourism%20project/taj-mahal");
+    background-size: cover;
+    width: 600px;
+    height: 500px;
+}
+
+.card-1{
+    background-color: white;
 }
